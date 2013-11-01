@@ -1,0 +1,25 @@
+INIT UN DEPOT SUR MON ORDI
+
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Matttttttttttt/antiseche_git.git
+git push -u origin master
+
+
+SI LE DEPOT EST DEJA UN GIT
+
+git remote add origin https://github.com/Matttttttttttt/antiseche_git.git
+git push -u origin master
+
+NOP
+git config --global core.editor BLA //editeur texte par defaut
+git config --global user.name BLA //nom users
+git config --global user.email BLA //mon mail
+
+
+CLONER VIA HTTP 
+
+git clone git://github.com/schacon/REPERTOIRE.git AUTRE_NOM
