@@ -23,3 +23,15 @@ git config --global user.email BLA //mon mail
 CLONER VIA HTTP 
 
 git clone git://github.com/schacon/REPERTOIRE.git AUTRE_NOM
+
+
+POUR RECUPERER 
+
+git pull
+
+
+POUR ENVOYER 
+
+git add
+git commit -m "commentaires"
+git push
